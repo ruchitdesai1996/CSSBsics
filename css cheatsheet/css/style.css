@@ -1,0 +1,131 @@
+body {
+    background-color: yellow;
+    color: beige;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: x-large;
+    font-weight: 100;
+    margin: 0cm;
+
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+
+
+
+
+.box {
+    background-color: black;
+    color: white;
+
+    border-right: 15px red solid;
+    border-left: 15px blue solid;
+    border-bottom: 4px blue dotted;
+
+
+    padding-top: 2px ;
+    padding: 10px;
+    margin-left: 2px;
+    margin-top: 10px;
+
+}
+
+.box h1 {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 800;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: double;
+    font-display: auto;
+    word-spacing: normal;
+}
+
+.box-1 {
+    font-size: x-large;
+    color: blue;
+    border: 10px red dotted;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+
+.box-1 h1 {
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+
+    color: red;
+}
+
+a:active {
+
+    color: green;
+}
+
+.categories {
+
+    color: black;
+    text-align: left;
+    font-weight: 200;
+    font-display: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.box-2 {
+
+    font-size: small;
+    color: blue;
+    border: 10px red dotted;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.categories ul {
+
+    list-style: circle;
+}
+
+.categories li {
+
+        padding: 6px;
+        border-bottom: 4px;
+
+}
+
+.form-group {
+
+    color: black;
+    text-align: left;
+    font-size: small;
+    font-weight: 100;
+    padding: 10px;
+
+}
+
+.my-form {
+
+    text-align: left;
+    text-shadow: none;
+    color: blue;
+}
+
+
